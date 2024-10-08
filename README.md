@@ -7,7 +7,7 @@ The purpose of this assignment is to provide students with practical experience 
 In this hands-on exercise, students will create a simple web form and implement client-side validation using JavaScript. The form should include various input types, such as text fields, email, password, and select/dropdown menus. The validation script should check for correct input formats, required fields, and any other specified conditions before allowing the form to be submitted.
 
 ## Requirements:
-CReate a registration and login form 
+Create a registration and login form 
 
 ### Registration Form Structure:
 
